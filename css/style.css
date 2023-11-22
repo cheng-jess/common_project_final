@@ -57,7 +57,7 @@ nav {
     height: 65px;
     font-size: 25px;
     padding: 0px;
-    background-image: url('/images/background2.jpeg');
+    background-image: url('../images/background2.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
